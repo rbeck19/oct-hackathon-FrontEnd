@@ -1,7 +1,7 @@
 let apiUrl
 const apiUrls = {
     // YOU MUST CHANGE PRODUCTION URL WHEN DEPLOYING
-	production: 'https://platepilot.onrender.com/',
+	production: 'https://platepilotbackend.onrender.com',
 	development: 'http://localhost:8000',
 }
 
